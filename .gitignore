@@ -1,3 +1,9 @@
+# Large files
+NY_CitiBike_Tableau_Demo.mp4
+.gitattributes
+/Data
+/Resources
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
